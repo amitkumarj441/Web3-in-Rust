@@ -1,0 +1,8 @@
+[package]
+name = "Web3 in Rust"
+version = "0.1.0"
+authors = ["Amit Kumar Jaiswal <amitkumarj441@gmail.com>"]
+
+[dependencies]
+hyper = "0.9.10"
+rustc-serialize = "0.3.19"
